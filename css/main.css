@@ -12,6 +12,7 @@ body {
 
 @media (min-width: 992px) {
   body {
+    background-color: black;
     padding-top: 0;
     padding-left: 17rem;
   }
